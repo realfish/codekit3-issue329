@@ -24,7 +24,7 @@
 		"oA": 0,
 		"oAP": "\/test\/app2.js",
 		"oF": 3,
-		"sC": 1,
+		"sC": 3,
 		"tS": 1
 		},
 	"\/src\/bar1.js": {
@@ -90,7 +90,7 @@
 	"displayValue": "codekit-issue",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_orange",
-	"lastBuiltDate": 510242831
+	"lastBuiltDate": 510244254
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
